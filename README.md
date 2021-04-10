@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Gaurav
+- 👀 I’m interested in creating custom web applications
+- 🌱 I’m currently learning React, Python
+- 📫 Have an interesting project in mind, reach me at gauravsec@outlook.com
